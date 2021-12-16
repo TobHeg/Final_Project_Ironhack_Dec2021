@@ -10,7 +10,7 @@ Training data is from kaggle and contains **20,800 news articles in 5 columns** 
 Data also contains a test file with 5,200 articles excluding the label
 
 ### Method
-Using NLP preprocessing to make text available for categorization models and compare the results. I will optimize the models by using Tdidf Vectors, NLTK Taggers and hyperparameter tuning.
+Using NLP preprocessing to make text available for categorization models and compare the results. I will optimize the models by using Tdidf Vectors. Model comparison between Random Forest, XGBoost and Passife-Aggressive-Classifier.
 
 ### Timelines
 
