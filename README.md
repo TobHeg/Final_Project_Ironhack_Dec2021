@@ -21,3 +21,5 @@ Using NLP preprocessing to make text available for categorization models and com
 - Prepare a GUI for user input --> till Monday Dec 13th
 - Prepare Presentation --> till Wednesday Dec 15th
 - Buffer Day --> Thursday Dec 16th
+
+### [Presentation](https://docs.google.com/presentation/d/1BKkF5vzqV0-g8fqMU1b1yNI0Zyoza8hi7aSkewgBUXU/edit?usp=sharing "Final_Projekt Presentation")
